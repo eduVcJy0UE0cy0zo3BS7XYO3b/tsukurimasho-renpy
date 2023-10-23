@@ -1,0 +1,1299 @@
+﻿
+translate None strings:
+
+    # common/00accessibility.rpy:28
+    old "Self-voicing disabled."
+    new "Self-voicing disabled."
+
+    # common/00accessibility.rpy:29
+    old "Clipboard voicing enabled. "
+    new "Clipboard voicing enabled. "
+
+    # common/00accessibility.rpy:30
+    old "Self-voicing enabled. "
+    new "Self-voicing enabled. "
+
+    # common/00accessibility.rpy:32
+    old "bar"
+    new "bar"
+
+    # common/00accessibility.rpy:33
+    old "selected"
+    new "selected"
+
+    # common/00accessibility.rpy:34
+    old "viewport"
+    new "viewport"
+
+    # common/00accessibility.rpy:35
+    old "horizontal scroll"
+    new "horizontal scroll"
+
+    # common/00accessibility.rpy:36
+    old "vertical scroll"
+    new "vertical scroll"
+
+    # common/00accessibility.rpy:37
+    old "activate"
+    new "activate"
+
+    # common/00accessibility.rpy:38
+    old "deactivate"
+    new "deactivate"
+
+    # common/00accessibility.rpy:39
+    old "increase"
+    new "increase"
+
+    # common/00accessibility.rpy:40
+    old "decrease"
+    new "decrease"
+
+    # common/00accessibility.rpy:138
+    old "Font Override"
+    new "Font Override"
+
+    # common/00accessibility.rpy:142
+    old "Default"
+    new "Default"
+
+    # common/00accessibility.rpy:146
+    old "DejaVu Sans"
+    new "DejaVu Sans"
+
+    # common/00accessibility.rpy:150
+    old "Opendyslexic"
+    new "Opendyslexic"
+
+    # common/00accessibility.rpy:156
+    old "Text Size Scaling"
+    new "Text Size Scaling"
+
+    # common/00accessibility.rpy:162
+    old "Reset"
+    new "Reset"
+
+    # common/00accessibility.rpy:168
+    old "Line Spacing Scaling"
+    new "Line Spacing Scaling"
+
+    # common/00accessibility.rpy:180
+    old "High Contrast Text"
+    new "High Contrast Text"
+
+    # common/00accessibility.rpy:182
+    old "Enable"
+    new "Enable"
+
+    # common/00accessibility.rpy:186
+    old "Disable"
+    new "Disable"
+
+    # common/00accessibility.rpy:193
+    old "Self-Voicing"
+    new "Self-Voicing"
+
+    # common/00accessibility.rpy:197
+    old "Off"
+    new "Off"
+
+    # common/00accessibility.rpy:201
+    old "Text-to-speech"
+    new "Text-to-speech"
+
+    # common/00accessibility.rpy:205
+    old "Clipboard"
+    new "Clipboard"
+
+    # common/00accessibility.rpy:209
+    old "Debug"
+    new "Debug"
+
+    # common/00accessibility.rpy:215
+    old "Voice Volume"
+    new "Voice Volume"
+
+    # common/00accessibility.rpy:223
+    old "Self-Voicing Volume Drop"
+    new "Self-Voicing Volume Drop"
+
+    # common/00accessibility.rpy:234
+    old "The options on this menu are intended to improve accessibility. They may not work with all games, and some combinations of options may render the game unplayable. This is not an issue with the game or engine. For the best results when changing fonts, try to keep the text size the same as it originally was."
+    new "The options on this menu are intended to improve accessibility. They may not work with all games, and some combinations of options may render the game unplayable. This is not an issue with the game or engine. For the best results when changing fonts, try to keep the text size the same as it originally was."
+
+    # common/00accessibility.rpy:239
+    old "Return"
+    new "Return"
+
+    # common/00action_file.rpy:26
+    old "{#weekday}Monday"
+    new "{#weekday}Monday"
+
+    # common/00action_file.rpy:26
+    old "{#weekday}Tuesday"
+    new "{#weekday}Tuesday"
+
+    # common/00action_file.rpy:26
+    old "{#weekday}Wednesday"
+    new "{#weekday}Wednesday"
+
+    # common/00action_file.rpy:26
+    old "{#weekday}Thursday"
+    new "{#weekday}Thursday"
+
+    # common/00action_file.rpy:26
+    old "{#weekday}Friday"
+    new "{#weekday}Friday"
+
+    # common/00action_file.rpy:26
+    old "{#weekday}Saturday"
+    new "{#weekday}Saturday"
+
+    # common/00action_file.rpy:26
+    old "{#weekday}Sunday"
+    new "{#weekday}Sunday"
+
+    # common/00action_file.rpy:37
+    old "{#weekday_short}Mon"
+    new "{#weekday_short}Mon"
+
+    # common/00action_file.rpy:37
+    old "{#weekday_short}Tue"
+    new "{#weekday_short}Tue"
+
+    # common/00action_file.rpy:37
+    old "{#weekday_short}Wed"
+    new "{#weekday_short}Wed"
+
+    # common/00action_file.rpy:37
+    old "{#weekday_short}Thu"
+    new "{#weekday_short}Thu"
+
+    # common/00action_file.rpy:37
+    old "{#weekday_short}Fri"
+    new "{#weekday_short}Fri"
+
+    # common/00action_file.rpy:37
+    old "{#weekday_short}Sat"
+    new "{#weekday_short}Sat"
+
+    # common/00action_file.rpy:37
+    old "{#weekday_short}Sun"
+    new "{#weekday_short}Sun"
+
+    # common/00action_file.rpy:47
+    old "{#month}January"
+    new "{#month}January"
+
+    # common/00action_file.rpy:47
+    old "{#month}February"
+    new "{#month}February"
+
+    # common/00action_file.rpy:47
+    old "{#month}March"
+    new "{#month}March"
+
+    # common/00action_file.rpy:47
+    old "{#month}April"
+    new "{#month}April"
+
+    # common/00action_file.rpy:47
+    old "{#month}May"
+    new "{#month}May"
+
+    # common/00action_file.rpy:47
+    old "{#month}June"
+    new "{#month}June"
+
+    # common/00action_file.rpy:47
+    old "{#month}July"
+    new "{#month}July"
+
+    # common/00action_file.rpy:47
+    old "{#month}August"
+    new "{#month}August"
+
+    # common/00action_file.rpy:47
+    old "{#month}September"
+    new "{#month}September"
+
+    # common/00action_file.rpy:47
+    old "{#month}October"
+    new "{#month}October"
+
+    # common/00action_file.rpy:47
+    old "{#month}November"
+    new "{#month}November"
+
+    # common/00action_file.rpy:47
+    old "{#month}December"
+    new "{#month}December"
+
+    # common/00action_file.rpy:63
+    old "{#month_short}Jan"
+    new "{#month_short}Jan"
+
+    # common/00action_file.rpy:63
+    old "{#month_short}Feb"
+    new "{#month_short}Feb"
+
+    # common/00action_file.rpy:63
+    old "{#month_short}Mar"
+    new "{#month_short}Mar"
+
+    # common/00action_file.rpy:63
+    old "{#month_short}Apr"
+    new "{#month_short}Apr"
+
+    # common/00action_file.rpy:63
+    old "{#month_short}May"
+    new "{#month_short}May"
+
+    # common/00action_file.rpy:63
+    old "{#month_short}Jun"
+    new "{#month_short}Jun"
+
+    # common/00action_file.rpy:63
+    old "{#month_short}Jul"
+    new "{#month_short}Jul"
+
+    # common/00action_file.rpy:63
+    old "{#month_short}Aug"
+    new "{#month_short}Aug"
+
+    # common/00action_file.rpy:63
+    old "{#month_short}Sep"
+    new "{#month_short}Sep"
+
+    # common/00action_file.rpy:63
+    old "{#month_short}Oct"
+    new "{#month_short}Oct"
+
+    # common/00action_file.rpy:63
+    old "{#month_short}Nov"
+    new "{#month_short}Nov"
+
+    # common/00action_file.rpy:63
+    old "{#month_short}Dec"
+    new "{#month_short}Dec"
+
+    # common/00action_file.rpy:258
+    old "%b %d, %H:%M"
+    new "%b %d, %H:%M"
+
+    # common/00action_file.rpy:378
+    old "Save slot %s: [text]"
+    new "Save slot %s: [text]"
+
+    # common/00action_file.rpy:461
+    old "Load slot %s: [text]"
+    new "Load slot %s: [text]"
+
+    # common/00action_file.rpy:514
+    old "Delete slot [text]"
+    new "Delete slot [text]"
+
+    # common/00action_file.rpy:593
+    old "File page auto"
+    new "File page auto"
+
+    # common/00action_file.rpy:595
+    old "File page quick"
+    new "File page quick"
+
+    # common/00action_file.rpy:597
+    old "File page [text]"
+    new "File page [text]"
+
+    # common/00action_file.rpy:655
+    old "Page {}"
+    new "Page {}"
+
+    # common/00action_file.rpy:655
+    old "Automatic saves"
+    new "Automatic saves"
+
+    # common/00action_file.rpy:655
+    old "Quick saves"
+    new "Quick saves"
+
+    # common/00action_file.rpy:796
+    old "Next file page."
+    new "Next file page."
+
+    # common/00action_file.rpy:868
+    old "Previous file page."
+    new "Previous file page."
+
+    # common/00action_file.rpy:929
+    old "Quick save complete."
+    new "Quick save complete."
+
+    # common/00action_file.rpy:944
+    old "Quick save."
+    new "Quick save."
+
+    # common/00action_file.rpy:963
+    old "Quick load."
+    new "Quick load."
+
+    # common/00action_other.rpy:381
+    old "Language [text]"
+    new "Language [text]"
+
+    # common/00action_other.rpy:721
+    old "Open [text] directory."
+    new "Open [text] directory."
+
+    # common/00director.rpy:705
+    old "The interactive director is not enabled here."
+    new "The interactive director is not enabled here."
+
+    # common/00director.rpy:1504
+    old "⬆"
+    new "⬆"
+
+    # common/00director.rpy:1510
+    old "⬇"
+    new "⬇"
+
+    # common/00director.rpy:1574
+    old "Done"
+    new "Done"
+
+    # common/00director.rpy:1584
+    old "(statement)"
+    new "(statement)"
+
+    # common/00director.rpy:1585
+    old "(tag)"
+    new "(tag)"
+
+    # common/00director.rpy:1586
+    old "(attributes)"
+    new "(attributes)"
+
+    # common/00director.rpy:1587
+    old "(transform)"
+    new "(transform)"
+
+    # common/00director.rpy:1612
+    old "(transition)"
+    new "(transition)"
+
+    # common/00director.rpy:1624
+    old "(channel)"
+    new "(channel)"
+
+    # common/00director.rpy:1625
+    old "(filename)"
+    new "(filename)"
+
+    # common/00director.rpy:1654
+    old "Change"
+    new "Change"
+
+    # common/00director.rpy:1656
+    old "Add"
+    new "Add"
+
+    # common/00director.rpy:1659
+    old "Cancel"
+    new "Cancel"
+
+    # common/00director.rpy:1662
+    old "Remove"
+    new "Remove"
+
+    # common/00director.rpy:1697
+    old "Statement:"
+    new "Statement:"
+
+    # common/00director.rpy:1718
+    old "Tag:"
+    new "Tag:"
+
+    # common/00director.rpy:1734
+    old "Attributes:"
+    new "Attributes:"
+
+    # common/00director.rpy:1745
+    old "Click to toggle attribute, right click to toggle negative attribute."
+    new "Click to toggle attribute, right click to toggle negative attribute."
+
+    # common/00director.rpy:1757
+    old "Transforms:"
+    new "Transforms:"
+
+    # common/00director.rpy:1768
+    old "Click to set transform, right click to add to transform list."
+    new "Click to set transform, right click to add to transform list."
+
+    # common/00director.rpy:1780
+    old "Behind:"
+    new "Behind:"
+
+    # common/00director.rpy:1789
+    old "Click to set, right click to add to behind list."
+    new "Click to set, right click to add to behind list."
+
+    # common/00director.rpy:1801
+    old "Transition:"
+    new "Transition:"
+
+    # common/00director.rpy:1819
+    old "Channel:"
+    new "Channel:"
+
+    # common/00director.rpy:1837
+    old "Audio Filename:"
+    new "Audio Filename:"
+
+    # common/00gui.rpy:446
+    old "Are you sure?"
+    new "Are you sure?"
+
+    # common/00gui.rpy:447
+    old "Are you sure you want to delete this save?"
+    new "Are you sure you want to delete this save?"
+
+    # common/00gui.rpy:448
+    old "Are you sure you want to overwrite your save?"
+    new "Are you sure you want to overwrite your save?"
+
+    # common/00gui.rpy:449
+    old "Loading will lose unsaved progress.\nAre you sure you want to do this?"
+    new "Loading will lose unsaved progress.\nAre you sure you want to do this?"
+
+    # common/00gui.rpy:450
+    old "Are you sure you want to quit?"
+    new "Are you sure you want to quit?"
+
+    # common/00gui.rpy:451
+    old "Are you sure you want to return to the main menu?\nThis will lose unsaved progress."
+    new "Are you sure you want to return to the main menu?\nThis will lose unsaved progress."
+
+    # common/00gui.rpy:452
+    old "Are you sure you want to end the replay?"
+    new "Are you sure you want to end the replay?"
+
+    # common/00gui.rpy:453
+    old "Are you sure you want to begin skipping?"
+    new "Are you sure you want to begin skipping?"
+
+    # common/00gui.rpy:454
+    old "Are you sure you want to skip to the next choice?"
+    new "Are you sure you want to skip to the next choice?"
+
+    # common/00gui.rpy:455
+    old "Are you sure you want to skip unseen dialogue to the next choice?"
+    new "Are you sure you want to skip unseen dialogue to the next choice?"
+
+    # common/00gui.rpy:456
+    old "This save was created on a different device. Maliciously constructed save files can harm your computer. Do you trust this save's creator and everyone who could have changed the file?"
+    new "This save was created on a different device. Maliciously constructed save files can harm your computer. Do you trust this save's creator and everyone who could have changed the file?"
+
+    # common/00gui.rpy:457
+    old "Do you trust the device the save was created on? You should only choose yes if you are the device's sole user."
+    new "Do you trust the device the save was created on? You should only choose yes if you are the device's sole user."
+
+    # common/00keymap.rpy:322
+    old "Failed to save screenshot as %s."
+    new "Failed to save screenshot as %s."
+
+    # common/00keymap.rpy:334
+    old "Saved screenshot as %s."
+    new "Saved screenshot as %s."
+
+    # common/00library.rpy:248
+    old "Skip Mode"
+    new "Skip Mode"
+
+    # common/00library.rpy:353
+    old "This program contains free software under a number of licenses, including the MIT License and GNU Lesser General Public License. A complete list of software, including links to full source code, can be found {a=https://www.renpy.org/l/license}here{/a}."
+    new "This program contains free software under a number of licenses, including the MIT License and GNU Lesser General Public License. A complete list of software, including links to full source code, can be found {a=https://www.renpy.org/l/license}here{/a}."
+
+    # common/00preferences.rpy:271
+    old "display"
+    new "display"
+
+    # common/00preferences.rpy:283
+    old "transitions"
+    new "transitions"
+
+    # common/00preferences.rpy:292
+    old "skip transitions"
+    new "skip transitions"
+
+    # common/00preferences.rpy:294
+    old "video sprites"
+    new "video sprites"
+
+    # common/00preferences.rpy:303
+    old "show empty window"
+    new "show empty window"
+
+    # common/00preferences.rpy:312
+    old "text speed"
+    new "text speed"
+
+    # common/00preferences.rpy:320
+    old "joystick"
+    new "joystick"
+
+    # common/00preferences.rpy:320
+    old "joystick..."
+    new "joystick..."
+
+    # common/00preferences.rpy:327
+    old "skip"
+    new "skip"
+
+    # common/00preferences.rpy:330
+    old "skip unseen [text]"
+    new "skip unseen [text]"
+
+    # common/00preferences.rpy:335
+    old "skip unseen text"
+    new "skip unseen text"
+
+    # common/00preferences.rpy:337
+    old "begin skipping"
+    new "begin skipping"
+
+    # common/00preferences.rpy:341
+    old "after choices"
+    new "after choices"
+
+    # common/00preferences.rpy:348
+    old "skip after choices"
+    new "skip after choices"
+
+    # common/00preferences.rpy:350
+    old "auto-forward time"
+    new "auto-forward time"
+
+    # common/00preferences.rpy:364
+    old "auto-forward"
+    new "auto-forward"
+
+    # common/00preferences.rpy:371
+    old "Auto forward"
+    new "Auto forward"
+
+    # common/00preferences.rpy:374
+    old "auto-forward after click"
+    new "auto-forward after click"
+
+    # common/00preferences.rpy:383
+    old "automatic move"
+    new "automatic move"
+
+    # common/00preferences.rpy:392
+    old "wait for voice"
+    new "wait for voice"
+
+    # common/00preferences.rpy:401
+    old "voice sustain"
+    new "voice sustain"
+
+    # common/00preferences.rpy:410
+    old "self voicing"
+    new "self voicing"
+
+    # common/00preferences.rpy:419
+    old "self voicing volume drop"
+    new "self voicing volume drop"
+
+    # common/00preferences.rpy:427
+    old "clipboard voicing"
+    new "clipboard voicing"
+
+    # common/00preferences.rpy:436
+    old "debug voicing"
+    new "debug voicing"
+
+    # common/00preferences.rpy:445
+    old "emphasize audio"
+    new "emphasize audio"
+
+    # common/00preferences.rpy:454
+    old "rollback side"
+    new "rollback side"
+
+    # common/00preferences.rpy:464
+    old "gl powersave"
+    new "gl powersave"
+
+    # common/00preferences.rpy:470
+    old "gl framerate"
+    new "gl framerate"
+
+    # common/00preferences.rpy:473
+    old "gl tearing"
+    new "gl tearing"
+
+    # common/00preferences.rpy:476
+    old "font transform"
+    new "font transform"
+
+    # common/00preferences.rpy:479
+    old "font size"
+    new "font size"
+
+    # common/00preferences.rpy:487
+    old "font line spacing"
+    new "font line spacing"
+
+    # common/00preferences.rpy:495
+    old "system cursor"
+    new "system cursor"
+
+    # common/00preferences.rpy:504
+    old "renderer menu"
+    new "renderer menu"
+
+    # common/00preferences.rpy:507
+    old "accessibility menu"
+    new "accessibility menu"
+
+    # common/00preferences.rpy:510
+    old "high contrast text"
+    new "high contrast text"
+
+    # common/00preferences.rpy:519
+    old "audio when minimized"
+    new "audio when minimized"
+
+    # common/00preferences.rpy:528
+    old "audio when unfocused"
+    new "audio when unfocused"
+
+    # common/00preferences.rpy:537
+    old "web cache preload"
+    new "web cache preload"
+
+    # common/00preferences.rpy:552
+    old "voice after game menu"
+    new "voice after game menu"
+
+    # common/00preferences.rpy:571
+    old "main volume"
+    new "main volume"
+
+    # common/00preferences.rpy:572
+    old "music volume"
+    new "music volume"
+
+    # common/00preferences.rpy:573
+    old "sound volume"
+    new "sound volume"
+
+    # common/00preferences.rpy:574
+    old "voice volume"
+    new "voice volume"
+
+    # common/00preferences.rpy:575
+    old "mute main"
+    new "mute main"
+
+    # common/00preferences.rpy:576
+    old "mute music"
+    new "mute music"
+
+    # common/00preferences.rpy:577
+    old "mute sound"
+    new "mute sound"
+
+    # common/00preferences.rpy:578
+    old "mute voice"
+    new "mute voice"
+
+    # common/00preferences.rpy:579
+    old "mute all"
+    new "mute all"
+
+    # common/00preferences.rpy:653
+    old "Clipboard voicing enabled. Press 'shift+C' to disable."
+    new "Clipboard voicing enabled. Press 'shift+C' to disable."
+
+    # common/00preferences.rpy:655
+    old "Self-voicing would say \"[renpy.display.tts.last]\". Press 'alt+shift+V' to disable."
+    new "Self-voicing would say \"[renpy.display.tts.last]\". Press 'alt+shift+V' to disable."
+
+    # common/00preferences.rpy:657
+    old "Self-voicing enabled. Press 'v' to disable."
+    new "Self-voicing enabled. Press 'v' to disable."
+
+    # common/00speechbubble.rpy:344
+    old "Speech Bubble Editor"
+    new "Speech Bubble Editor"
+
+    # common/00speechbubble.rpy:349
+    old "(hide)"
+    new "(hide)"
+
+    # common/00iap.rpy:219
+    old "Contacting App Store\nPlease Wait..."
+    new "Contacting App Store\nPlease Wait..."
+
+    # common/00updater.rpy:419
+    old "The Ren'Py Updater is not supported on mobile devices."
+    new "The Ren'Py Updater is not supported on mobile devices."
+
+    # common/00updater.rpy:548
+    old "An error is being simulated."
+    new "An error is being simulated."
+
+    # common/00updater.rpy:738
+    old "Either this project does not support updating, or the update status file was deleted."
+    new "Either this project does not support updating, or the update status file was deleted."
+
+    # common/00updater.rpy:752
+    old "This account does not have permission to perform an update."
+    new "This account does not have permission to perform an update."
+
+    # common/00updater.rpy:755
+    old "This account does not have permission to write the update log."
+    new "This account does not have permission to write the update log."
+
+    # common/00updater.rpy:783
+    old "Could not verify update signature."
+    new "Could not verify update signature."
+
+    # common/00updater.rpy:1084
+    old "The update file was not downloaded."
+    new "The update file was not downloaded."
+
+    # common/00updater.rpy:1102
+    old "The update file does not have the correct digest - it may have been corrupted."
+    new "The update file does not have the correct digest - it may have been corrupted."
+
+    # common/00updater.rpy:1252
+    old "While unpacking {}, unknown type {}."
+    new "While unpacking {}, unknown type {}."
+
+    # common/00updater.rpy:1624
+    old "Updater"
+    new "Updater"
+
+    # common/00updater.rpy:1631
+    old "An error has occured:"
+    new "An error has occured:"
+
+    # common/00updater.rpy:1633
+    old "Checking for updates."
+    new "Checking for updates."
+
+    # common/00updater.rpy:1635
+    old "This program is up to date."
+    new "This program is up to date."
+
+    # common/00updater.rpy:1637
+    old "[u.version] is available. Do you want to install it?"
+    new "[u.version] is available. Do you want to install it?"
+
+    # common/00updater.rpy:1639
+    old "Preparing to download the updates."
+    new "Preparing to download the updates."
+
+    # common/00updater.rpy:1641
+    old "Downloading the updates."
+    new "Downloading the updates."
+
+    # common/00updater.rpy:1643
+    old "Unpacking the updates."
+    new "Unpacking the updates."
+
+    # common/00updater.rpy:1645
+    old "Finishing up."
+    new "Finishing up."
+
+    # common/00updater.rpy:1647
+    old "The updates have been installed. The program will restart."
+    new "The updates have been installed. The program will restart."
+
+    # common/00updater.rpy:1649
+    old "The updates have been installed."
+    new "The updates have been installed."
+
+    # common/00updater.rpy:1651
+    old "The updates were cancelled."
+    new "The updates were cancelled."
+
+    # common/00updater.rpy:1666
+    old "Proceed"
+    new "Proceed"
+
+    # common/00compat.rpy:406
+    old "Fullscreen"
+    new "Fullscreen"
+
+    # common/00gallery.rpy:627
+    old "Image [index] of [count] locked."
+    new "Image [index] of [count] locked."
+
+    # common/00gallery.rpy:647
+    old "prev"
+    new "prev"
+
+    # common/00gallery.rpy:648
+    old "next"
+    new "next"
+
+    # common/00gallery.rpy:649
+    old "slideshow"
+    new "slideshow"
+
+    # common/00gallery.rpy:650
+    old "return"
+    new "return"
+
+    # common/00gltest.rpy:89
+    old "Renderer"
+    new "Renderer"
+
+    # common/00gltest.rpy:93
+    old "Automatically Choose"
+    new "Automatically Choose"
+
+    # common/00gltest.rpy:100
+    old "Force GL Renderer"
+    new "Force GL Renderer"
+
+    # common/00gltest.rpy:105
+    old "Force ANGLE Renderer"
+    new "Force ANGLE Renderer"
+
+    # common/00gltest.rpy:110
+    old "Force GLES Renderer"
+    new "Force GLES Renderer"
+
+    # common/00gltest.rpy:116
+    old "Force GL2 Renderer"
+    new "Force GL2 Renderer"
+
+    # common/00gltest.rpy:121
+    old "Force ANGLE2 Renderer"
+    new "Force ANGLE2 Renderer"
+
+    # common/00gltest.rpy:126
+    old "Force GLES2 Renderer"
+    new "Force GLES2 Renderer"
+
+    # common/00gltest.rpy:132
+    old "Gamepad"
+    new "Gamepad"
+
+    # common/00gltest.rpy:136
+    old "Enable (No Blocklist)"
+    new "Enable (No Blocklist)"
+
+    # common/00gltest.rpy:150
+    old "Calibrate"
+    new "Calibrate"
+
+    # common/00gltest.rpy:159
+    old "Powersave"
+    new "Powersave"
+
+    # common/00gltest.rpy:173
+    old "Framerate"
+    new "Framerate"
+
+    # common/00gltest.rpy:177
+    old "Screen"
+    new "Screen"
+
+    # common/00gltest.rpy:181
+    old "60"
+    new "60"
+
+    # common/00gltest.rpy:185
+    old "30"
+    new "30"
+
+    # common/00gltest.rpy:191
+    old "Tearing"
+    new "Tearing"
+
+    # common/00gltest.rpy:207
+    old "Changes will take effect the next time this program is run."
+    new "Changes will take effect the next time this program is run."
+
+    # common/00gltest.rpy:214
+    old "Quit"
+    new "Quit"
+
+    # common/00gltest.rpy:242
+    old "Performance Warning"
+    new "Performance Warning"
+
+    # common/00gltest.rpy:247
+    old "This computer is using software rendering."
+    new "This computer is using software rendering."
+
+    # common/00gltest.rpy:249
+    old "This game requires use of GL2 that can't be initialised."
+    new "This game requires use of GL2 that can't be initialised."
+
+    # common/00gltest.rpy:251
+    old "This computer has a problem displaying graphics: [problem]."
+    new "This computer has a problem displaying graphics: [problem]."
+
+    # common/00gltest.rpy:255
+    old "Its graphics drivers may be out of date or not operating correctly. This can lead to slow or incorrect graphics display."
+    new "Its graphics drivers may be out of date or not operating correctly. This can lead to slow or incorrect graphics display."
+
+    # common/00gltest.rpy:259
+    old "The {a=edit:1:log.txt}log.txt{/a} file may contain information to help you determine what is wrong with your computer."
+    new "The {a=edit:1:log.txt}log.txt{/a} file may contain information to help you determine what is wrong with your computer."
+
+    # common/00gltest.rpy:264
+    old "More details on how to fix this can be found in the {a=[url]}documentation{/a}."
+    new "More details on how to fix this can be found in the {a=[url]}documentation{/a}."
+
+    # common/00gltest.rpy:269
+    old "Continue, Show this warning again"
+    new "Continue, Show this warning again"
+
+    # common/00gltest.rpy:273
+    old "Continue, Don't show warning again"
+    new "Continue, Don't show warning again"
+
+    # common/00gltest.rpy:281
+    old "Change render options"
+    new "Change render options"
+
+    # common/00gamepad.rpy:32
+    old "Select Gamepad to Calibrate"
+    new "Select Gamepad to Calibrate"
+
+    # common/00gamepad.rpy:35
+    old "No Gamepads Available"
+    new "No Gamepads Available"
+
+    # common/00gamepad.rpy:54
+    old "Calibrating [name] ([i]/[total])"
+    new "Calibrating [name] ([i]/[total])"
+
+    # common/00gamepad.rpy:58
+    old "Press or move the '[control!s]' [kind]."
+    new "Press or move the '[control!s]' [kind]."
+
+    # common/00gamepad.rpy:68
+    old "Skip (A)"
+    new "Skip (A)"
+
+    # common/00gamepad.rpy:71
+    old "Back (B)"
+    new "Back (B)"
+
+    # common/_errorhandling.rpym:555
+    old "Open"
+    new "Open"
+
+    # common/_errorhandling.rpym:557
+    old "Opens the traceback.txt file in a text editor."
+    new "Opens the traceback.txt file in a text editor."
+
+    # common/_errorhandling.rpym:559
+    old "Copy BBCode"
+    new "Copy BBCode"
+
+    # common/_errorhandling.rpym:561
+    old "Copies the traceback.txt file to the clipboard as BBcode for forums like https://lemmasoft.renai.us/."
+    new "Copies the traceback.txt file to the clipboard as BBcode for forums like https://lemmasoft.renai.us/."
+
+    # common/_errorhandling.rpym:563
+    old "Copy Markdown"
+    new "Copy Markdown"
+
+    # common/_errorhandling.rpym:565
+    old "Copies the traceback.txt file to the clipboard as Markdown for Discord."
+    new "Copies the traceback.txt file to the clipboard as Markdown for Discord."
+
+    # common/_errorhandling.rpym:594
+    old "An exception has occurred."
+    new "An exception has occurred."
+
+    # common/_errorhandling.rpym:617
+    old "Rollback"
+    new "Rollback"
+
+    # common/_errorhandling.rpym:619
+    old "Attempts a roll back to a prior time, allowing you to save or choose a different choice."
+    new "Attempts a roll back to a prior time, allowing you to save or choose a different choice."
+
+    # common/_errorhandling.rpym:622
+    old "Ignore"
+    new "Ignore"
+
+    # common/_errorhandling.rpym:626
+    old "Ignores the exception, allowing you to continue."
+    new "Ignores the exception, allowing you to continue."
+
+    # common/_errorhandling.rpym:628
+    old "Ignores the exception, allowing you to continue. This often leads to additional errors."
+    new "Ignores the exception, allowing you to continue. This often leads to additional errors."
+
+    # common/_errorhandling.rpym:632
+    old "Reload"
+    new "Reload"
+
+    # common/_errorhandling.rpym:634
+    old "Reloads the game from disk, saving and restoring game state if possible."
+    new "Reloads the game from disk, saving and restoring game state if possible."
+
+    # common/_errorhandling.rpym:637
+    old "Console"
+    new "Console"
+
+    # common/_errorhandling.rpym:639
+    old "Opens a console to allow debugging the problem."
+    new "Opens a console to allow debugging the problem."
+
+    # common/_errorhandling.rpym:652
+    old "Quits the game."
+    new "Quits the game."
+
+    # common/_errorhandling.rpym:673
+    old "Parsing the script failed."
+    new "Parsing the script failed."
+
+    # common/_developer/developer.rpym:38
+    old "Developer Menu"
+    new "Developer Menu"
+
+    # common/_developer/developer.rpym:43
+    old "Interactive Director (D)"
+    new "Interactive Director (D)"
+
+    # common/_developer/developer.rpym:45
+    old "Reload Game (Shift+R)"
+    new "Reload Game (Shift+R)"
+
+    # common/_developer/developer.rpym:47
+    old "Console (Shift+O)"
+    new "Console (Shift+O)"
+
+    # common/_developer/developer.rpym:49
+    old "Variable Viewer"
+    new "Variable Viewer"
+
+    # common/_developer/developer.rpym:51
+    old "Persistent Viewer"
+    new "Persistent Viewer"
+
+    # common/_developer/developer.rpym:53
+    old "Image Location Picker"
+    new "Image Location Picker"
+
+    # common/_developer/developer.rpym:55
+    old "Filename List"
+    new "Filename List"
+
+    # common/_developer/developer.rpym:59
+    old "Show Image Load Log (F4)"
+    new "Show Image Load Log (F4)"
+
+    # common/_developer/developer.rpym:62
+    old "Hide Image Load Log (F4)"
+    new "Hide Image Load Log (F4)"
+
+    # common/_developer/developer.rpym:65
+    old "Image Attributes"
+    new "Image Attributes"
+
+    # common/_developer/developer.rpym:70
+    old "Speech Bubble Editor (Shift+B)"
+    new "Speech Bubble Editor (Shift+B)"
+
+    # common/_developer/developer.rpym:97
+    old "[name] [attributes] (hidden)"
+    new "[name] [attributes] (hidden)"
+
+    # common/_developer/developer.rpym:101
+    old "[name] [attributes]"
+    new "[name] [attributes]"
+
+    # common/_developer/developer.rpym:151
+    old "Nothing to inspect."
+    new "Nothing to inspect."
+
+    # common/_developer/developer.rpym:162
+    old "Hide deleted"
+    new "Hide deleted"
+
+    # common/_developer/developer.rpym:162
+    old "Show deleted"
+    new "Show deleted"
+
+    # common/_developer/developer.rpym:318
+    old "Rectangle copied to clipboard."
+    new "Rectangle copied to clipboard."
+
+    # common/_developer/developer.rpym:321
+    old "Position copied to clipboard."
+    new "Position copied to clipboard."
+
+    # common/_developer/developer.rpym:333
+    old "Rectangle: %r"
+    new "Rectangle: %r"
+
+    # common/_developer/developer.rpym:336
+    old "Mouse position: %r"
+    new "Mouse position: %r"
+
+    # common/_developer/developer.rpym:341
+    old "Right-click or escape to quit."
+    new "Right-click or escape to quit."
+
+    # common/_developer/developer.rpym:389
+    old "Type to filter: "
+    new "Type to filter: "
+
+    # common/_developer/developer.rpym:507
+    old "Textures: [tex_count] ([tex_size_mb:.1f] MB)"
+    new "Textures: [tex_count] ([tex_size_mb:.1f] MB)"
+
+    # common/_developer/developer.rpym:511
+    old "Image cache: [cache_pct:.1f]% ([cache_size_mb:.1f] MB)"
+    new "Image cache: [cache_pct:.1f]% ([cache_size_mb:.1f] MB)"
+
+    # common/_developer/developer.rpym:521
+    old "✔ "
+    new "✔ "
+
+    # common/_developer/developer.rpym:524
+    old "✘ "
+    new "✘ "
+
+    # common/_developer/developer.rpym:529
+    old "\n{color=#cfc}✔ predicted image (good){/color}\n{color=#fcc}✘ unpredicted image (bad){/color}\n{color=#fff}Drag to move.{/color}"
+    new "\n{color=#cfc}✔ predicted image (good){/color}\n{color=#fcc}✘ unpredicted image (bad){/color}\n{color=#fff}Drag to move.{/color}"
+
+    # common/_developer/inspector.rpym:38
+    old "Displayable Inspector"
+    new "Displayable Inspector"
+
+    # common/_developer/inspector.rpym:61
+    old "Size"
+    new "Size"
+
+    # common/_developer/inspector.rpym:65
+    old "Style"
+    new "Style"
+
+    # common/_developer/inspector.rpym:71
+    old "Location"
+    new "Location"
+
+    # common/_developer/inspector.rpym:122
+    old "Inspecting Styles of [displayable_name!q]"
+    new "Inspecting Styles of [displayable_name!q]"
+
+    # common/_developer/inspector.rpym:139
+    old "displayable:"
+    new "displayable:"
+
+    # common/_developer/inspector.rpym:145
+    old "        (no properties affect the displayable)"
+    new "        (no properties affect the displayable)"
+
+    # common/_developer/inspector.rpym:147
+    old "        (default properties omitted)"
+    new "        (default properties omitted)"
+
+    # common/_developer/inspector.rpym:185
+    old "<repr() failed>"
+    new "<repr() failed>"
+
+    # common/00console.rpy:533
+    old "Press <esc> to exit console. Type help for help.\n"
+    new "Press <esc> to exit console. Type help for help.\n"
+
+    # common/00console.rpy:537
+    old "Ren'Py script enabled."
+    new "Ren'Py script enabled."
+
+    # common/00console.rpy:539
+    old "Ren'Py script disabled."
+    new "Ren'Py script disabled."
+
+    # common/00console.rpy:789
+    old "help: show this help\n help <expr>: show signature and documentation of <expr>"
+    new "help: show this help\n help <expr>: show signature and documentation of <expr>"
+
+    # common/00console.rpy:813
+    old "Help may display undocumented functions. Please check that the function or\nclass you want to use is documented.\n\n"
+    new "Help may display undocumented functions. Please check that the function or\nclass you want to use is documented.\n\n"
+
+    # common/00console.rpy:822
+    old "commands:\n"
+    new "commands:\n"
+
+    # common/00console.rpy:832
+    old " <renpy script statement>: run the statement\n"
+    new " <renpy script statement>: run the statement\n"
+
+    # common/00console.rpy:834
+    old " <python expression or statement>: run the expression or statement"
+    new " <python expression or statement>: run the expression or statement"
+
+    # common/00console.rpy:842
+    old "clear: clear the console history"
+    new "clear: clear the console history"
+
+    # common/00console.rpy:846
+    old "exit: exit the console"
+    new "exit: exit the console"
+
+    # common/00console.rpy:854
+    old "stack: print the return stack"
+    new "stack: print the return stack"
+
+    # common/00console.rpy:876
+    old "load <slot>: loads the game from slot"
+    new "load <slot>: loads the game from slot"
+
+    # common/00console.rpy:889
+    old "save <slot>: saves the game in slot"
+    new "save <slot>: saves the game in slot"
+
+    # common/00console.rpy:900
+    old "reload: reloads the game, refreshing the scripts"
+    new "reload: reloads the game, refreshing the scripts"
+
+    # common/00console.rpy:908
+    old "watch <expression>: watch a python expression\n watch short: makes the representation of traced expressions short (default)\n watch long: makes the representation of traced expressions as is"
+    new "watch <expression>: watch a python expression\n watch short: makes the representation of traced expressions short (default)\n watch long: makes the representation of traced expressions as is"
+
+    # common/00console.rpy:945
+    old "unwatch <expression>: stop watching an expression"
+    new "unwatch <expression>: stop watching an expression"
+
+    # common/00console.rpy:991
+    old "unwatchall: stop watching all expressions"
+    new "unwatchall: stop watching all expressions"
+
+    # common/00console.rpy:1012
+    old "jump <label>: jumps to label"
+    new "jump <label>: jumps to label"
+
+    # common/00console.rpy:1028
+    old "short: Shorten the representation of objects on the console (default)."
+    new "short: Shorten the representation of objects on the console (default)."
+
+    # common/00console.rpy:1032
+    old "long: Print the full representation of objects on the console."
+    new "long: Print the full representation of objects on the console."
+
+    # common/00console.rpy:1036
+    old "escape: Enables escaping of unicode symbols in unicode strings."
+    new "escape: Enables escaping of unicode symbols in unicode strings."
+
+    # common/00console.rpy:1040
+    old "unescape: Disables escaping of unicode symbols in unicode strings and print it as is (default)."
+    new "unescape: Disables escaping of unicode symbols in unicode strings and print it as is (default)."
+
